@@ -3,5 +3,5 @@ DATABASE_CONFIG = {
     "user": "root",
     "password": "XSfSTYdadqgRBhKchGXpjSJCxHlDSgvU",
     "database": "railway",
-    "port": 3306
+    "port": 33504
 }
